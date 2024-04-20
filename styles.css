@@ -325,7 +325,7 @@ svg {
         margin-right: 10px;
     }
     .product {
-        width: 45%;
+        max-width:100% ;
         margin: 10px;
     }
     .cart-dropdown {
